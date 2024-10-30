@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Al-bomber
 - 👀 I’m interested in web develeopment, game development
-- 🌱 I’m currently learning html, c++, pascal, MySql
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Creating Universe
+- 💞️ I’m looking to collaborate on God
+- 📫 How to reach me IG : @Abdul_jbrr
 
 <!---
 Al-bomber/Al-bomber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
