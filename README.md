@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Al-bomber
 - 👀 I’m interested in web develeopment, game development
-- 🌱 I’m currently learning Creating Universe
-- 💞️ I’m looking to collaborate on God
+- 🌱 I’m currently learning Game Programming
+- 💞️ I’m looking to collaborate on Game Development
 - 📫 How to reach me IG : @Abdul_jbrr
 
 <!---
